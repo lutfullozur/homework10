@@ -1,0 +1,33 @@
+
+input{
+    width: 300px;
+}
+.inst{
+    margin-left: 35px;
+}
+
+.pet-select{
+    width: 200px;
+}
+.sag{
+    width: 110px;
+    margin-left: 45px;
+}
+.sag1{
+    margin-left: 45px;
+    width: 210px;
+}
+option{
+    color: white;
+}
+label{
+    color: white;
+}
+.data{
+    justify-content: center;
+    margin-left: 450px;
+    margin-top: 100px;
+}
+body{
+    background-color: rgb(65, 0, 72);
+}
